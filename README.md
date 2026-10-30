@@ -85,6 +85,10 @@ digitos,clasica_us,karatsuba_us,razon_clasica_sobre_karatsuba
 ...
 ```
 
+### Análisis Gráfico del Rendimiento
+<img width="847" height="567" alt="image" src="https://github.com/user-attachments/assets/07b8ec68-ec55-4708-a642-c96a10bbdf96" />
+
+
 ---
 
 ## Declaración de Uso Ético de IA
