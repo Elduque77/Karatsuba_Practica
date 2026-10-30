@@ -10,8 +10,8 @@
 
 Este proyecto implementa y compara experimentalmente dos algoritmos para la multiplicación de enteros de precisión arbitraria representados como cadenas de caracteres (`std::string`) en base 10:
 
-1. **Multiplicación Clásica ($\Theta(n^2)$):** Método tradicional basado en multiplicaciones de dígitos individuales.
-2. **Algoritmo de Karatsuba ($\Theta(n^{\log_2 3}) \approx \Theta(n^{1.585})$):** Algoritmo basado en la técnica de *Divide y Vencerás* que reduce la multiplicación de dos números de $n$ dígitos a 3 subproblemas de tamaño $n/2$.
+1. **Multiplicación Clásica (Θ(n²)):** Método tradicional basado en multiplicaciones de dígitos individuales.
+2. **Algoritmo de Karatsuba (Θ(nˡᵒᵍ₂ ³) ≈ Θ(n¹.⁵⁸⁵)):** Algoritmo basado en la técnica de *Divide y Vencerás* que reduce la multiplicación de dos números de $n$ dígitos a 3 subproblemas de tamaño $n/2$.
 
 ### Decisiones de Diseño Implementadas
 * **Representación interna:** Cadenas de caracteres (`std::string`) en base 10 con el dígito más significativo en la posición `0`.
