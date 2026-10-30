@@ -87,6 +87,9 @@ digitos,clasica_us,karatsuba_us,razon_clasica_sobre_karatsuba
 
 ### Análisis Gráfico del Rendimiento
 <img width="847" height="567" alt="image" src="https://github.com/user-attachments/assets/07b8ec68-ec55-4708-a642-c96a10bbdf96" />
+link del excel con la tabla y la gráfica
+https://eafit-my.sharepoint.com/:x:/g/personal/jfduqueg1_eafit_edu_co/cQpv2v_s4YZET5rePQkY-25XEgUCOuGKN7EQ6h0GB3C2uBUhew
+
 
 
 ---
